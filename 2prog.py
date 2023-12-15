@@ -1,7 +1,8 @@
 """Игра угадай число
-    компьютер загадывает и угадывает  """
+    компьютер загадывает и угадывает"""
     
 import numpy as np
+
 num_max=100+1
 number = np.random.randint(1,num_max)
 num_up = num_max
