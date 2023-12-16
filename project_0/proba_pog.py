@@ -15,11 +15,19 @@ def random_predict(number:int=1) -> int:
     """
 
     count = 0
+    
+    # Начальные значения для поиска числа
+    num_up = 101
+    num_dow = 0
 
+    # Цикл поиска загадонного числа
     while True:
         count += 1
-        predict_number = np.random.randint(1, 101) # предполагаемое число
-        if number == predict_number:
+        num_pc= (num_up-num_dow)//2+num_dow # предполагаемое число
+                
+        if number<num_pc: num_up=num_pc # предполагаемое число больше загадонного
+        elif number>num_pc: num_dow=num_pc # предполагаемое число меньше загадонного
+        else: # Загаданое чис ло най дено
             break # выход из цикла, если угадали
     return(count)
 
@@ -47,6 +55,4 @@ def score_game(random_predict) -> int:
 
 if  __name__=="__main__":
     # RUN
-    score_game(random_predict)
-
-    
+    score_game(random_predict)    
