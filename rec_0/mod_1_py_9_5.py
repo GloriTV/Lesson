@@ -90,11 +90,10 @@ a=defaultdict(list)
 
 for x,y in ratings:
     a[y].append(x)
-print(a)  
 
 b=list(a)  
 b.sort(reverse=True)
-print(b)    
+    
 for x in a:
     a[x]=sorted(a[x])  
 
@@ -103,4 +102,23 @@ for x in b:
     for y in a[x]:
         c[y]=x
     
-print(c)
+
+
+tasks = [(35364, 'voltage', False),
+    (36871, 'office', False),
+    (40690, 'office', False),
+    (41667, 'voltage', True),
+    (33850, 'office', False)]
+
+def task_manager(tasks):
+    zad_list=defaultdict(deque)
+    for zad,nam,prio in tasks:
+        if prio:zad_list[nam].appendleft(zad)
+        else:zad_list[nam].append(zad)
+        
+    return zad_list  
+        
+
+print(task_manager(tasks))
+# defaultdict(, {'voltage': deque([41667, 35364]),
+# 'office': deque([36871, 40690, 33850])})
