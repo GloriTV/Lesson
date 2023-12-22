@@ -10,5 +10,6 @@ print(ratings)
 # Сохраните данные с рейтингом в словарь cafes, где ключами являются
 # названия кафе, а значениями - их рейтинг.
 from collections import OrderedDict
+
 cafes = OrderedDict(ratings)
 print(cafes)
