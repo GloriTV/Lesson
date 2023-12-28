@@ -1,6 +1,7 @@
 import os
 from collections import OrderedDict
 
+
 def clear_console():
     os.system('cls')
     
@@ -33,8 +34,9 @@ def check(temps):
 check(temps)    
 #OrderedDict([('2001', -2.5), ('2000', -4.4), ('2002', -4.4), ('2003', -9.5)])
 
-from hidden import *
 from collections import deque
+
+from hidden import *
 
 a=deque(users)
 b=a.popleft()
