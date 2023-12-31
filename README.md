@@ -6,5 +6,5 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект 1. ________](____)
 * [Проект 2. ________](https://github.com/GloriTV/Lesson/tree/main/Py_9_NumPy)
 * [Модуль10. NumPy_массвы_random_colec](____)
-* [мусор](https://github.com/GloriTV/Lesson/blob/tree/main/rec_0)
+* [мусор](https://github.com/GloriTV/Lesson/tree/main/rec_0)
 
