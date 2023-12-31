@@ -58,3 +58,6 @@ def get_loto(num):
     return result
 
 # print(get_loto(3))
+simplelist = [19, 242, 14, 152, 142, 1000]
+arr=np.array(simplelist)
+print(arr.mean())
