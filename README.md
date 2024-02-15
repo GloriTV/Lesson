@@ -6,5 +6,12 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект 1. ________](____)
 * [Проект 2. ________](____)
 * [Модуль 09. NumPy_массвы_random_colec](https://github.com/GloriTV/Lesson/tree/main/Py_9_NumPy)
+* [Модуль 10. Pandus](https://github.com/GloriTV/Lesson/tree/main/Py_9_NumPy)
+* [Модуль 11. Pandus](https://github.com/GloriTV/Lesson/tree/main/Py_9_NumPy)
+* [Модуль 12. Pandus](https://github.com/GloriTV/Lesson/tree/main/Py_9_NumPy)
+* [Модуль 13. Visual](https://github.com/GloriTV/Lesson/tree/main/Py_9_NumPy)
+* [Модуль 14. Clear](https://github.com/GloriTV/Lesson/tree/main/Py_9_NumPy)
+* [Модуль 15. Bonus](https://github.com/GloriTV/Lesson/tree/main/Py_9_NumPy)
+* [DataCleaningProject](https://github.com/GloriTV/Lesson/tree/main/Py_9_NumPy)
 * [мусор](https://github.com/GloriTV/Lesson/tree/main/rec_0)
 
