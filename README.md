@@ -13,7 +13,7 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Модуль 14. Clear](https://github.com/GloriTV/Lesson/tree/main/Py_14_Clear)
 * [Модуль 15. Bonus](https://github.com/GloriTV/Lesson/tree/main/Py_15)
 * [Модуль 16. Python_Exel_JSON_XML](https://github.com/GloriTV/Lesson/tree/main/Py_16Python)
-* [Модуль 17. PYTHON_Internet.](___________________________)
+* [Модуль 17. PYTHON_Internet.](https://github.com/GloriTV/Lesson/tree/main/Py_17_Internet)
 * [DataCleaningProject](https://github.com/GloriTV/Lesson/tree/main/DataCleaningProject)
 * [мусор](https://github.com/GloriTV/Lesson/tree/main/rec_0)
 
