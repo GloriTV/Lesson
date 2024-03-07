@@ -4,7 +4,7 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 ## Проекты
 * [Проект 0. Игра: угадываем число](https://github.com/GloriTV/Lesson/tree/main/project_0)
 * [Проект 1. Pandus_Visual_Clear](https://github.com/GloriTV/Lesson/tree/main/Project_1)
-* [Проект 2. ________](____)
+* [Проект 2. SQL](https://github.com/GloriTV/Lesson/tree/main/Project_2)
 * [Модуль 09. NumPy_массвы_random_colec](https://github.com/GloriTV/Lesson/tree/main/Py_9_NumPy)
 * [Модуль 10. Pandus](https://github.com/GloriTV/Lesson/tree/main/Py_10_Pandas)
 * [Модуль 11. Pandus](https://github.com/GloriTV/Lesson/tree/main/Py_11_pandusy)
