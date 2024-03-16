@@ -4,3 +4,6 @@
 
 data={1:'one', '1':'two','a':'asd'}
 print(data[1],len(data))
+print(data)
+data[1]='qwer'
+print(data)
