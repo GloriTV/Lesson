@@ -1,0 +1,21 @@
+import numpy as np
+
+arr, step = np.linspace(-6, 21, 60, endpoint=False,retstep=True)
+
+print(arr)
+print('Размерность массива: ',arr.ndim)
+print('Число элиментов массива: ',arr.size)
+print('Форма или структура массива:',arr.shape)
+print('Шаг массива: ',round(step,2))
+print('Тип данных массива: ',arr.dtype)
+print('Обьем данных массива: ',arr.itemsize)
+arr=np.zeros(5)
+print(arr)
+arr= np.zeros((5,4,3), dtype=np.float32)
+print(arr)
+arr=np.arange(5)
+print(arr)
+arr=np.arange(2.5,5)
+print(arr)
+arr=np.arange(2.5,5,0.5)
+print(arr)
